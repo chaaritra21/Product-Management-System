@@ -5,4 +5,4 @@ USERNAME AND PASSWORD FOR THE PROGRAM :-
 
 Username : user
 Password : pass
- You can Chande Username and Password on your Own.
+ You can Change Username and Password on your Own.
